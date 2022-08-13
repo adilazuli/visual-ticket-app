@@ -1,0 +1,7 @@
+{
+  "name": "visual-ticket",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
