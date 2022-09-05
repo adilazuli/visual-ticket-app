@@ -1,0 +1,26 @@
+%!Adobe-FontList 1.23
+%Locale:0x80a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gadugi
+FamilyName:Gadugi
+StyleName:Regular
+FullName:Gadugi
+MenuName:Gadugi
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Files\Documentos\Job\Nytelweb\Visual Ticket\visual-ticket-app\src\assets\Font\gadugi-normal.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:229912
+FileModTime:1612755338
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gadugi
+NameArray:0,Win,1,Gadugi
+%EndFont
+

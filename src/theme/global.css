@@ -1,0 +1,71 @@
+@font-face {   
+    font-family: 'Gadugi'; 
+    src: url('../assets/font/gadugi-normal.ttf');
+}
+
+.logo{
+    width: 65%;
+    margin: 0 auto;
+}
+
+.container{
+    position: relative;
+    --padding-top: 10px;
+    --padding-start: 10px;
+    --padding-end: 10px;
+    --padding-bottom: 10px;
+}
+
+.vh100{
+    height: 100vh;
+}
+.smallBox{
+    margin: 0 10%;
+}
+.alignBottom{
+    position: absolute;
+    bottom: 10%;
+    width: 75%;
+}
+
+/* Spacing */
+
+.mt-1{
+    margin-top: 10px;
+}
+.mt-2{
+    margin-top: 30px;
+}
+.mb-1{
+    margin-bottom: 10px;
+}
+.mb-2{
+    margin-bottom: 30px;
+}
+.px-1{
+    padding: 0 10px;
+}
+
+/* Text */
+.text-center{
+    text-align: center;
+}
+.ts-1{
+    font-size: 14px;
+}
+.ts-2{
+    font-size: 16px;
+}
+.text-blue{
+    color: #143F50;
+}
+
+/* Buttons */
+
+.whiteBtn{
+    height: 50px;
+    text-transform: capitalize;
+    --border-radius: 30px;
+    --box-shadow: 0 3px 10px rgba(0, 0, 0, 0.13);
+    --ripple-color: #4BB6CD;
+}
