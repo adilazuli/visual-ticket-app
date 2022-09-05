@@ -69,5 +69,5 @@
   "devDependencies": {
     "@capacitor/cli": "4.0.1"
   },
-  "description": "An Ionic project"
+  "description": "Tu gestion a solo un click"
 }
